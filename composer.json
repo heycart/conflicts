@@ -1,7 +1,7 @@
 {
   "name": "heycart/conflicts",
   "type": "metapackage",
-  "description": "OniPanel 6 conflicting packages",
+  "description": "HeyCart 6 conflicting packages",
   "license": "MIT",
   "conflict": {
     "phenx/php-font-lib": "<0.5.5",
